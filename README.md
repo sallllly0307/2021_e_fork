@@ -6,7 +6,7 @@
 Stella
 
 ## プロダクト説明
-本屋さんにいるみたいに偶然に本と出会える書籍検索サービスです。
+偶然に本と出会える書籍検索サービスです。
 ![Desktop - 27](https://user-images.githubusercontent.com/43309924/111894329-5e0da700-8a4d-11eb-9a7c-281b4a49bb9d.png)
 
 ## 使用技術・ツール
